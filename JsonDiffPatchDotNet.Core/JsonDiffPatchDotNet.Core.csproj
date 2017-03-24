@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.6;net462;netcoreapp1.1</TargetFrameworks>
+    <PackageId>JsonDiffPathDotNetCore</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Israel</Authors>
+    <Description>JSON object diffs and reversible patching (jsondiffpatch compatible)</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageTags>json diff jsondiff jsonpatch</PackageTags>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
+
+</Project>

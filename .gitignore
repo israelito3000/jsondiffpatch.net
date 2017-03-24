@@ -3,3 +3,8 @@
 ################################################################################
 
 /JsonDiffPatchDotNet.Core/obj
+/JsonDiffPatchDotNet.Core/bin/Debug
+/JsonDiffPatchDotNet.Core.UnitTest/bin/Debug
+/JsonDiffPatchDotNet.Core/bin/Debug
+/JsonDiffPatchDotNet.Core/bin/Debug/netstandard1.6
+/JsonDiffPatchDotNet.Core/bin/Debug
