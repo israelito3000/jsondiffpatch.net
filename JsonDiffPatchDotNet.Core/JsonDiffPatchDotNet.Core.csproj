@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>netstandard1.6;net462;netcoreapp1.1</TargetFrameworks>
+    <TargetFrameworks>netstandard1.6;net462</TargetFrameworks>
     <PackageId>JsonDiffPathDotNetCore</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
     <Authors>Israel</Authors>
